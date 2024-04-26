@@ -1,6 +1,8 @@
 ```mermaid
 ---
 title: AnimalKingdom
+author: Alexandre Almeida
+format: pdf
 ---
 classDiagram
     Animal <|-- Cat
