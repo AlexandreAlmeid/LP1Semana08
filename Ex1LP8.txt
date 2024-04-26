@@ -1,0 +1,9 @@
+Exercício 1
+
+1 - A keyword é "interface".
+2 - A visibilidade é "public".
+3 - Falsa. Uma classe que implementa uma interface tem de fornecer implementações de todos os membros da interface.
+4 - Verdadeira. Uma classe que implementa uma interface pode ter membros que não estão definidos na interface.
+5 - Falsa. Uma classe só pode estender uma classe base.
+6 - Verdadeira. Uma classe pode implementar mais do que uma interface.
+7 - Verdadeira. Uma struct pode implementar interfaces.
